@@ -1,27 +1,23 @@
 # ProjetoBuzzfeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Um quiz estilo Buzzfeed feito com Angular, só pra provar que dá pra aprender e se divertir ao mesmo tempo  
+Feito com carinho por mim, Jonas Rodrigues
 
-## Development server
+## Sobre o projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Esse é um projeto simples de quiz onde o usuário responde algumas perguntas e no final recebe um resultado baseado nas respostas. Ideal pra treinar conceitos do Angular como:
 
-## Code scaffolding
+- Componentes
+- Data binding
+- Estrutura de pastas
+- Lógica de exibição de resultados
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Tecnologias usadas
 
-## Build
+- Angular 14
+- HTML + CSS
+- Typescript
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Como rodar
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
