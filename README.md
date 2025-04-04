@@ -18,6 +18,6 @@ Esse é um projeto simples de quiz onde o usuário responde algumas perguntas e 
 - HTML + CSS
 - Typescript
 
-## Como rodar
+
 
 
